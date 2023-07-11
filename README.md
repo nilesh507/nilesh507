@@ -14,6 +14,7 @@ Welcome to my profile! I'm a student, badminton player, fps gamer, part-time cod
 
 <!-- ## Where are you hoping to travel next? :airplane: :earth_americas: :luggage: -->
 
+  ![Snake animation](https://github.com/nilesh507/nilesh507/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%">
 
