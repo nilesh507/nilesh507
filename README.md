@@ -14,8 +14,7 @@ Welcome to my profile! I'm a student, badminton player, fps gamer, part-time cod
 
 <!-- ## Where are you hoping to travel next? :airplane: :earth_americas: :luggage: -->
 
-
-<img src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%"> -->
 
 
 ### 
